@@ -1,4 +1,12 @@
-## Hi there 👋
+# 🦥 Hi there 🦥
+
+Welcome to my GitHub profile! Here you'll find some of my work in frontend, backend, and mobile development – always a little challenge, always learning something new. 🚀
+
+## My Projects ✨💻
+
+- **Game Explorer** – A React web app that lets users browse and explore video games with a responsive, user-friendly interface  
+- **Command Center** – A Java/PostgreSQL backend project practicing relational databases and multi-layered architecture  
+- **ExpireTracker** – A React Native mobile app that helps users track groceries and reduce food waste 
 
 <!--
 **sKoski04/sKoski04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
